@@ -7634,9 +7634,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\project.csproj",
-      "projectName": "project",
-      "projectPath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\project.csproj",
+      "projectUniqueName": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab2.csproj",
+      "projectName": "Lab2",
+      "projectPath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab2.csproj",
       "packagesPath": "C:\\Users\\Henry Zou\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\obj\\",
       "projectStyle": "PackageReference",
