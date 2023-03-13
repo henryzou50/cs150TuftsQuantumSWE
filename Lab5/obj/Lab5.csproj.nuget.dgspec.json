@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj": {}
+    "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj": {
+    "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj",
+        "projectUniqueName": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj",
         "projectName": "Lab5",
-        "projectPath": "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj",
+        "projectPath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\Lab5.csproj",
         "packagesPath": "C:\\Users\\Henry Zou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\obj\\",
+        "outputPath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Henry Zou\\AppData\\Roaming\\NuGet\\NuGet.Config"
