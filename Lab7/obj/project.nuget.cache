@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mc7atjLO5XKHKkewQSylNxjnVn53cgd+2CGUBi1kwxiLG3fFmF9782YbeeJsk1ZQrp8i26UxCHoCAUg4S4YLcA==",
+  "dgSpecHash": "Yywd49kUsfYvu6mtVHqeMQeZ8fN+tIpZrQ46L6Emq8GfXW0bKY5bVKU3m30JeqzzsKLsafAnxHLaqx4vbSeazw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab7\\Lab7.csproj",
+  "projectFilePath": "c:\\Users\\Henry Zou\\OneDrive\\Documents\\TuftsCS\\CS150\\cs150TuftsQuantumSWE\\Lab7\\Lab7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henry Zou\\.nuget\\packages\\bond.core.csharp\\9.0.3\\bond.core.csharp.9.0.3.nupkg.sha512",
     "C:\\Users\\Henry Zou\\.nuget\\packages\\bond.csharp\\9.0.3\\bond.csharp.9.0.3.nupkg.sha512",
